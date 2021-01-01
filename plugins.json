@@ -1,0 +1,34 @@
+[
+  {
+    "projectUrl": "https://discord.gg/ABrDyKujn5",
+    "provider": "ShadowRS",
+    "name": "Idle Handler",
+    "description": "be god",
+    "id": "idlehandler-plugin",
+    "releases": [
+      {
+        "date": "2021-01-01",
+        "sha512sum": "785E93F40826302FE533F17DA4629BFD3DF1E3B24263C319E46FCA96AB266AB7AD825D1E48D7F42129D8825A1F50390B767B30398C2C8C1D911F09CB8D21A09B",
+        "version": "0.0.2",
+        "url": "https://github.com/shadowrs/anotherkekw /blob/master/release/ShadowRS-b-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/ABrDyKujn5",
+    "provider": "ShadowRS",
+    "name": "Circlebutton-UI",
+    "description": "be god",
+    "id": "circlebuttonui-plugin",
+    "releases": [
+      {
+        "date": "2021-01-01",
+        "sha512sum": "CCEEACA95A7F30B31AE7F806C5969136337EC2452902F1816B529663D397B392D41AD1991CCBB2F24D3CCFCB7CC247201E190363280EEB70C2670115C47AF985",
+        "version": "0.0.13",
+        "url": "https://github.com/shadowrs/anotherkekw /blob/master/release/ShadowRS-a-0.0.13.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
